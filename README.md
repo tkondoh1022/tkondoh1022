@@ -1,5 +1,5 @@
-- 👋 Hi, I’m takeo kondoh.
-- 👀 I’m interested in programing.
+- 👋 Hi, I’m Takeo Kondoh.
+- 👀 I’m Software Engineer.
 - 🌱 I’m currently learning English conversation.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
